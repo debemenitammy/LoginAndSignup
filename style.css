@@ -4,30 +4,28 @@ html, body {
     margin: 0;
     background-color: #FFFFFF;
 }
-.pet {
+.class1 {
     display: flex;
     width: 100%;
     height: 100%;
-    
-    
 }
-.set h1 {
+.class2 h1 {
     color: #FFFFFF;
     margin-top: 26%;
     font-size: 26px;
     font-family: 'Sofia Pro'
 }
 
-.let {
+.class3 {
     text-align: center;
 }
-.let h3 {
+.class3 h3 {
     color: #FFFFFF;
     text-align: center;
     font-size: 15px;
     margin-top: 14%;
 }
-.let button {
+.class3 button {
     width: 131px;
     height: 42px;
     margin-left: 20%;
@@ -38,32 +36,27 @@ html, body {
     border-style: solid 1px green;
     font-family: 'Sofia Pro';
     color: #FFFFFF;
-
 }
-
-.set{
+.class2{
     background-color: #003663;
     width: 50%;
     text-align: center;
 }
-.pass {
+.class4 {
     background-color: blue;
     width: 50%;
     background-color: #FFFFFF;
-    
 }
-.inside {
+.class5 {
     margin-left: 17%;
     margin-top: 28%;
-    
-
 }
-.inside h1 {
+.class5 h1 {
     color: #555555;
     font-size: 13px;
     font-family: 'Sofia Pro';
 }
-.big {
+.class6 {
     font-size: 14px;
     margin-top: 42px;
     display: inline-block;
@@ -75,7 +68,7 @@ input[type=email] {
     margin-top: 9px;
     padding-left: 8px;
 }
-.small {
+.class7 {
     margin-top: 44px;
     display: inline-block;
     font-size: 14px;
@@ -107,38 +100,41 @@ input[type=password] {
     color: #030303;
     font-size: 14px;
 }
+
+
+
 /* signup */
 html, body {
     height: 100%;
     margin: 0;
     background-color: #FFFFFF;
 }
-.alpha {
+.class8 {
     display: flex;
     width: 100%;
     height: 100%;
 }
-.omega {
+.class9 {
     background-color: #003663;
     width: 50%;
     text-align: center;
 }
-.omega h1 {
+.class9 h1 {
     color: #FFFFFF;
     margin-top: 26%;
     font-size: 26px;
     font-family: 'Sofia Pro';
 }
-.content {
+.class10 {
     text-align: center;
 }
-.content h3 {
+.class10 h3 {
     color: #FFFFFF;
     text-align: center;
     font-size: 15px;
     margin-top: 14%;
 }
-.content button {
+.class10 button {
     width: 131px;
     height: 42px;
     margin-left: 20%;
@@ -150,19 +146,17 @@ html, body {
     font-family: 'Sofia Pro';
     color: #FFFFFF;
 }
-.real {
+.class11 {
     background-color: blue;
     width: 50%;
     background-color: #FFFFFF;
 }
-.ordinal {
+.class12 {
     margin-left: 10%;
     margin-top: 18%;
     margin-right: 15%;
-    
-    
 }
-.ordinal h1 {
+.class12 h1 {
     color: #555555;
     font-size: 13px;
     font-family: 'Sofia Pro';
@@ -173,13 +167,10 @@ input[type=text] {
     border-radius: 12px;
     margin-top: 9px;
     padding-left: 8px;
-    
 }
-.chill {
+.class13 {
     display: flex;
     margin-right:12%;
-
-
 }
 #firstname {
     margin-right: 11px;
