@@ -73,6 +73,7 @@ input[type=email] {
     height: 48px;
     border-radius: 12px;
     margin-top: 9px;
+    padding-left: 8px;
 }
 .small {
     margin-top: 44px;
@@ -84,6 +85,7 @@ input[type=password] {
     height: 48px;
     border-radius: 12px;
     margin-top: 9px;
+    padding-left: 8px;
 }
 #link {
     font-size: 14px;
@@ -170,6 +172,7 @@ input[type=text] {
     height: 48px;
     border-radius: 12px;
     margin-top: 9px;
+    padding-left: 8px;
     
 }
 .chill {
